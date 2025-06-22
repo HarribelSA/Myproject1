@@ -1,2 +1,2 @@
-# Myproject1
-Python Programming Basics Project
+# MyApp1
+Sign to text converter application E/Ar
